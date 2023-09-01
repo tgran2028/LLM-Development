@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tree>
+  <directory name=".">
+    <file name="./handlers.py" size="11127"></file>
+    <file name="./extension.py" size="4208"></file>
+    <directory name="./chat_handlers" size="4096">
+      <file name="./chat_handlers/learn.py" size="10476"></file>
+      <file name="./chat_handlers/generate.py" size="9325"></file>
+      <file name="./chat_handlers/base.py" size="3586"></file>
+      <file name="./chat_handlers/default.py" size="2756"></file>
+      <file name="./chat_handlers/ask.py" size="2299"></file>
+      <file name="./chat_handlers/help.py" size="1211"></file>
+      <file name="./chat_handlers/clear.py" size="578"></file>
+      <file name="./chat_handlers/__init__.py" size="254"></file>
+    </directory>
+    <directory name="./document_loaders" size="4096">
+      <file name="./document_loaders/directory.py" size="2510"></file>
+      <file name="./document_loaders/splitter.py" size="1647"></file>
+      <file name="./document_loaders/__init__.py" size="0"></file>
+    </directory>
+    <directory name="./tests" size="4096">
+      <file name="./tests/test_handlers.py" size="323"></file>
+      <file name="./tests/__init__.py" size="40"></file>
+    </directory>
+    <file name="./config_manager.py" size="4049"></file>
+    <file name="./models.py" size="2401"></file>
+    <file name="./tree.json" size="1637"></file>
+    <file name="./__init__.py" size="446"></file>
+    <file name="./_version.py" size="171"></file>
+  </directory>
+  <report>
+    <directories>3</directories>
+    <files>20</files>
+  </report>
+</tree>
